@@ -199,3 +199,12 @@ font-weight: 600;
     text-align: center;
     margin-top: 50px;
 }
+
+/* footer part styles */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px;
+    margin-top: 113px;
+
+}
