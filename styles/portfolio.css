@@ -25,9 +25,12 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-left: 160px;
+    margin-right: 230px;
 }
 .nav-title{
 color: #181818;
+
 font-size: 45px;
 font-weight: 800;
 
@@ -77,6 +80,7 @@ nav li{
 }
 .profile-pic{
     width: 500px;
+    margin-left: 230px;
 }
 .banner-greetings{
     font-size: 45px;
