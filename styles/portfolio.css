@@ -203,8 +203,33 @@ font-weight: 600;
 /* footer part styles */
 footer{
     display: flex;
+    gap: 117px;
     background: #FFF8F3;
     padding: 130px 230px;
     margin-top: 113px;
 
 }
+.footer-column{
+    width: 50%;
+}
+.contact input[type="text"], .contact input[type="email"],textarea{
+    display: block;
+    margin-bottom: 24px;
+    width: 461px;
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background:  #FFF;
+    border: 0;
+}
+::placeholder{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
+.social-img a{
+    margin-right: 25px;
+}
+
