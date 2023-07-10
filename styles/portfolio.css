@@ -69,7 +69,6 @@ nav li{
 .banner{
     display: flex;
     padding: 30px 30px 0px 150px;
-    border: 10px solid red;
     align-items: center;
     justify-content: space-between;
 }
