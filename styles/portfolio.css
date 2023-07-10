@@ -37,3 +37,19 @@ nav li{
     color: white;
     padding: 17px 35px;
 }
+
+/* header part styles */
+
+.header{
+    background-color: #FFF8F3;
+}
+
+.banner{
+    display: flex;
+    padding: 30px 30px 30px 150px;
+    border: 10px solid red;
+    align-items: center;
+}
+.profile-pic{
+    width: 500px;
+}
