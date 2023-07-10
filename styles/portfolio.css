@@ -93,11 +93,33 @@ nav li{
 
 /* main section styles */
 
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
 .about{
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
     margin: 130px 0;
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+  
+}
+.about-info{
+    text-align: center;
+}
+.about-info .info-title{
+    font-weight: normal;
+}
+.about-info .info-description{
+    font-weight: bold;
 }
 
 /* about section styles */
